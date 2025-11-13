@@ -1,0 +1,8 @@
+Predictor, Branches Processed, Cumulative Accuracy (%)
+Static Taken, 10, 50.0
+Static Not Taken, 10, 50.0
+One Bit, 10, 50.0
+Two Bit, 10, 50.0
+Bimodal, 10, 50.0
+GShare, 10, 50.0
+Hybrid, 10, 50.0
